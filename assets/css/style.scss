@@ -1,0 +1,15 @@
+//base
+@import "./base/reset";
+@import "./base/fontStyle";
+@import "./base/base";
+
+//component
+@import "./component/container";
+@import "./component/btn";
+
+//layout
+@import "./layout/header";
+@import "./layout/footer";
+
+//pages
+@import "./pages/index.scss";
